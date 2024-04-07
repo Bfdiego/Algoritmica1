@@ -31,12 +31,21 @@ public class ejercicios {
         }
     }
 
-    public static void (){
-        
+    public static void collatz_conjecture (int n){
+
+        if (n == 1) {
+            System.out.println(n);
+        } else if (n % 2 == 0) {
+            System.out.println(n);
+            collatz_conjecture(n/2);
+        } else {
+            System.out.println(n);
+            collatz_conjecture(n*3 + 1);
+        }
     }
 public static void main(String[] args) {
     
-    verificar_picos_escaleras();
+    collatz_conjecture(327);
     
 }
 }
