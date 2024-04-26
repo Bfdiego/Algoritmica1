@@ -5,7 +5,7 @@ Bienvenidos al repositorio de mi materia de Algoritmica 1 - UPB - 2024 La materi
 Se vera el temario que se avanza en esta materia de algoritmica 1, profundizando en teoria además incluyendo varios ejemplos en codigo,dividiendose en los siguientes temas como:
 
 - [Analisis algoritmico](capitulos/analisis_algoritmico)
-- [Estructuras de datos](capitulos/estructuraDeDatos)
+- [Estructuras de datos](capitulos/estructurasDeDatos)
 
 ### [Problemas](problemas)
 Es la coleccion de algunos problemas que no necesariamente estan ligados a alguna estrucura de dato en espcifico, si no mas bien en si, en el enfoque de soluciones variadas, ademas de algunos problemas ya conocidos.
